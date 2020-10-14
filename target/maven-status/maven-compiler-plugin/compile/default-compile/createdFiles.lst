@@ -1,0 +1,8 @@
+com\qa\pages\LoginPage.class
+com\qa\base\Testbase.class
+com\qa\pages\Contacts.class
+com\qa\util\TestUtil.class
+com\qa\pages\HomePage.class
+com\qa\pages\NewContact.class
+com\qa\ExtentReportListener\ExtentReporterNG.class
+com\qa\util\WebEventListener.class

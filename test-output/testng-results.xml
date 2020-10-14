@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-14T20:40:34 CEST" name="Default suite" finished-at="2020-10-14T20:41:22 CEST" duration-ms="47820">
+    <groups>
+    </groups>
+    <test started-at="2020-10-14T20:40:34 CEST" name="Default test" finished-at="2020-10-14T20:41:22 CEST" duration-ms="47820">
+      <class name="com.qa.testcases.NewContactTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.NewContactTest@bae7dc0]" started-at="2020-10-14T20:40:36 CEST" name="setUp" finished-at="2020-10-14T20:40:57 CEST" duration-ms="21545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testcases.NewContactTest@bae7dc0]" started-at="2020-10-14T20:40:57 CEST" name="addNewContact" data-provider="AddtestdatafromExcel" finished-at="2020-10-14T20:41:00 CEST" duration-ms="3216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lead]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kabeer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Khan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kabeer@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewContact -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.NewContactTest@bae7dc0]" started-at="2020-10-14T20:41:00 CEST" name="teardown" finished-at="2020-10-14T20:41:01 CEST" duration-ms="994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.NewContactTest@bae7dc0]" started-at="2020-10-14T20:41:01 CEST" name="setUp" finished-at="2020-10-14T20:41:18 CEST" duration-ms="16477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testcases.NewContactTest@bae7dc0]" started-at="2020-10-14T20:41:18 CEST" name="addNewContact" data-provider="AddtestdatafromExcel" finished-at="2020-10-14T20:41:21 CEST" duration-ms="3232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Customer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Naila]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rehman]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[naila@hotmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewContact -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.NewContactTest@bae7dc0]" started-at="2020-10-14T20:41:21 CEST" name="teardown" finished-at="2020-10-14T20:41:22 CEST" duration-ms="952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testcases.NewContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
