@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="UmairR-A555" failures="0" tests="9" name="com.qa.testcases.ContactPageTest" time="151.392" errors="0" timestamp="15 Oct 2020 12:56:19 GMT">
+  <testcase classname="com.qa.testcases.LoginPageTest" name="LoginTest" time="1.119"/>
+  <testcase classname="com.qa.testcases.ContactPageTest" name="verifyContactPage" time="0.647"/>
+  <testcase classname="com.qa.testcases.HomePageTest" name="validateHomepageTitle" time="0.028"/>
+  <testcase classname="com.qa.testcases.LoginPageTest" name="titlePageTest" time="0.124"/>
+  <testcase classname="com.qa.testcases.NewContactTest" name="addNewContact" time="5.446"/>
+  <testcase classname="com.qa.testcases.NewContactTest" name="addNewContact" time="4.614"/>
+  <testcase classname="com.qa.testcases.ContactPageTest" name="clickOnDropdown" time="2.027"/>
+  <testcase classname="com.qa.testcases.HomePageTest" name="validateUserDisplayed" time="1.446"/>
+  <testcase classname="com.qa.testcases.HomePageTest" name="clickonContacts" time="2.486"/>
+</testsuite>
