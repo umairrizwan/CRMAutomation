@@ -1,0 +1,18 @@
+<suite name="My testing application" >
+
+<test name="Free CRM Application Test ">
+<classes>
+
+<listeners>
+<listener
+class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+</listeners>
+
+<class name="com.qa.testcases.LoginPageTest"></class>
+<class name="com.qa.testcases.HomePageTest"></class>
+<class name="com.qa.testcases.ContactPageTest"></class>
+<class name="com.qa.testcases.NewContactTest"></class>
+
+</classes>
+</test>
+</suite>

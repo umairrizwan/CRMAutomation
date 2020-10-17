@@ -1,0 +1,13 @@
+<suite name="My testing application" >
+
+<test name="Free CRM Application Test ">
+<classes>
+
+
+<class name="com.qa.testcases.LoginPageTest"></class>
+<!-- <class name="com.qa.testcases.HomePageTest"></class>
+<class name="com.qa.testcases.ContactPageTest"></class> -->
+
+</classes>
+</test>
+</suite>
